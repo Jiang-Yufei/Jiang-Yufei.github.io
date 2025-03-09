@@ -19,13 +19,15 @@ Work experience
 * Fall 2024: Teaching Assistant
   * Penn State University
   * Course: ASRSP 313 - Aerospace Analysis
+* Spring 2025: Teaching Assistant
+  * Penn State University
+  * Course: ASRSP 304 - System Dynamics and Control
   
 Skills
 ======
 * Programming Language
   * Python
-  * C++
-  * C
+  * C++ & C
   * Matlab
 * Robot Operation System (ROS)
 * 3D Modeling - SolidWorks
